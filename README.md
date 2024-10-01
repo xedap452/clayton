@@ -1,18 +1,4 @@
 # clayton
- Link Clayton : 
-
- Auto farm
-
- Auto task
-
- Auto chơi game 2048
-
- Hỗ trợ đa luồng (clayton2.js)
-
-Sửa số luồng tại dòng 8
-
-const maxThreads = 10; // số luồng
-
 Hướng dẫn: 
 
 YÊU CẦU ĐÃ CÀI NODEJS NHÉ ANH EM
